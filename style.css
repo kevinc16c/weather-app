@@ -147,9 +147,10 @@ body {
 }
 .not-found {
     width: 100%;
-    margin-top: 50px;
-    scale: 0;
-    opacity: 0;
+    /* margin-top: 50px; */
+    margin: 50px 0px 0px 40px;
+    /* scale: 0;
+    opacity: 0; */
     display: none;
 }
 
@@ -165,10 +166,10 @@ body {
 
 }
 
-.weather-box, .weather-details {
+/* .weather-box, .weather-details {
     scale: 0;
     opacity: 0;
-}
+} */
 
 .fade-in {
     animation: 0.5s fadeIn forwards;
